@@ -1,4 +1,4 @@
-FROM python:3.10.13-alpine3.18 as base-image
+FROM python:3.12-alpine as base-image
 FROM base-image as builder
 ARG KERIPY_BRANCH=main
 
@@ -8,7 +8,7 @@ ENV PATH="/root/.cargo/bin:${PATH}"
 
 RUN python -m pip install --upgrade pip
 
-RUN git clone --depth 1 --branch ${KERIPY_BRANCH} https://github.com/provenant-dev/keripy.git /keripy
+RUN git clone --depth 1 --branch ${KERIPY_BRANCH} https://github.com/WebOfTrust/keripy.git /keripy
 
 
 WORKDIR /keripy

@@ -13,10 +13,10 @@ setup(
     description='Schema Registry API and CLI commands',
     author='Provenant',
     url='https://github.com/provenant-dev/public-schema',
-    python_requires='>=3.10.4',
+    python_requires='>=3.12.2',
     packages=find_packages(include=['cli', 'api', 'cli.*', 'api.*']),
     install_requires=[
-        'keri @ git+https://git@github.com/provenant-dev/keripy.git#v1.1.13'
+        'keri>=1.1.11'
     ],    
     entry_points={
         'console_scripts': [
