@@ -5,10 +5,16 @@
   "EJd1p1-LSs3umkXzOwqpweEeYnrKeMsA9rys-U8ga1cE": "face-to-face/face-to-face.schema.json",
   "EG-DzAk65LJF3oA3BE4EIKd7K8Y49hceayitL74dJIZu": "ai-coder/ai-coder.schema.json",
   "ECothfK5Uhv3uoPYbWpa9M_a6Hr14MLI0_oOYKLv-r6G": "gcd/gcd.schema.json",
+<<<<<<< HEAD
   "EAxes7ZBFHHeWsr5vlkAx-96hhlS7U-iDxt_dEytnZYI": "bindkey/bindkey.schema.json",
   "ENDcMNUZjag27T_GTxiCmB2kYstg_kqipqz39906E_FD": "attestation/attestation.schema.json",
   "EAM1O26I6UlSQEFN58k_hNtWwimE5GEeVDO-FvKbq1tf": "proof-of-control/proof-of-control.schema.json",
   "EKUPqIZ1irc7FjYBMYMvELPfZ-4qSQyLjOrkP0RWB9Wh": "vLEI/acdc/telephone-number-credential.json",
+=======
+  "EAM1O26I6UlSQEFN58k_hNtWwimE5GEeVDO-FvKbq1tf": "proof-of-control/proof-of-control.schema.json",
+  "EKUPqIZ1irc7FjYBMYMvELPfZ-4qSQyLjOrkP0RWB9Wh": "tn/tn.schema.json",
+  "EB4AsU1rKGOAf7m4MS324XhanXq8G01sR_bUdUV2TULm": "attestation/attestation.schema.json",
+>>>>>>> f028690c42b3b51f5a1a65f211ed41fb60e140d0
   "ENUJUYc1Jtelb4vflYIRAQe2xED0I-nIlE_SuMGyKNdR": "vLEI/acdc/campaign-credential.json",
   "EBNaNu-M9P5cgrnfl2Fvymy4E_jvxxyjb70PRtiANlJy": "vLEI/acdc/legal-entity-official-organizational-role-vLEI-credential.json",
   "EMhvwOlyEJ9kN4PrwCpr9Jsv7TxPhiYveZ0oP3lJzdEi": "vLEI/acdc/verifiable-ixbrl-report-attestation.json",
